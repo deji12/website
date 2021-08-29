@@ -5,8 +5,8 @@
 }
 
 .img {
-/*     background-color: #cccccc;  */
-    background-image: url("2.jpg");
+    background-color: #cccccc; 
+    background-image: url("img2.jpg");
     height: 500px; 
     background-position: center;
     background-repeat: no-repeat; 
